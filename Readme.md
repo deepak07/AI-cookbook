@@ -12,7 +12,7 @@ This guide outlines the steps to set up your development environment for a FastA
 1. **Create a virtual environment (recommended):**
 
   ```bash
-    python3.13 -m venv ai-cookbook
+    python3.10 -m venv ai-cookbook
   ```
 
 1. **Activate the virtual environment:**
