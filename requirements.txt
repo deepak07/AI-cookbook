@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-redis
-google-genai
-dotenv
-qdrant-client
-PyPDF2
-langchain
-openai
